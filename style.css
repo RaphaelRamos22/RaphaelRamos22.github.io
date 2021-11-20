@@ -44,3 +44,10 @@ h1{
     font-weight: bold;
     
 }
+.skills{
+    margin: 20px;
+}
+
+.skills li{
+    margin: 20px;
+}
