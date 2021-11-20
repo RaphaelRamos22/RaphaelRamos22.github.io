@@ -13,6 +13,7 @@ img{
 }
 h1{
     font-size: 40px;
+    font-weight: bold;
 }
 
 .cabecalho{ 
@@ -32,4 +33,15 @@ h1{
     font-size: 15px;
     font-weight: bold;
     text-decoration: none;   
+}
+.sobre-mim{ 
+    margin: 20px 400px 10px 20px
+    
+}
+
+.subtitulo{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
 }
