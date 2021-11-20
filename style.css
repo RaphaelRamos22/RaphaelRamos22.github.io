@@ -1,0 +1,35 @@
+body{
+    background-color:burlywood;
+}
+header{
+        display: flex;
+        margin-bottom: 30px;
+        margin-left: 15px;
+}
+img{ 
+    border-radius: 360px;
+    margin:20px 0 30px 60px;
+    width: 250px;
+}
+h1{
+    font-size: 40px;
+}
+
+.cabecalho{ 
+    margin:auto;
+    display: inline;
+}
+
+.cabecalho-lista{
+    display: flex; 
+}
+.cabecalho-lista li{
+    margin: 20px;
+}
+.cabecalho-lista a{
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;   
+}
