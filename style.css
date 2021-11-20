@@ -74,3 +74,9 @@ h1{
     margin: 10px 0;
 
 }
+.rodape{
+    background-color: dimgray;
+}
+.rodape img{
+    width: 100px;
+}
