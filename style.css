@@ -76,7 +76,15 @@ h1{
 }
 .rodape{
     background-color: dimgray;
+    height: 150px;
+    
+    
 }
-.rodape img{
-    width: 100px;
+.midia-social{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.midia-social img{
+    width: 40px;
 }
