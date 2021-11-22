@@ -5,6 +5,7 @@ header{
         display: flex;
         margin-bottom: 30px;
         margin-left: 15px;
+        justify-content: space-around;
 }
 img{ 
     border-radius: 360px;
@@ -17,8 +18,7 @@ h1{
 }
 
 .cabecalho{ 
-    margin:auto;
-    display: inline;
+    align-self: center;
 }
 
 .cabecalho-lista{
@@ -38,7 +38,7 @@ h1{
     margin-top:20px;    
 }
 .sobre-mim p{
-    margin: 0px 300px;
+    margin: 0px 100px;
 }
 
 .subtitulo{
@@ -87,4 +87,17 @@ h1{
 }
 .midia-social img{
     width: 40px;
+}
+@media screen and (max-width: 820px){
+
+header{
+    display: flex;
+    flex-direction:column  ;
+}
+img{
+    align-self: center;
+}
+.sobre-mim p{
+    margin: 30px;
+}
 }
