@@ -10,7 +10,7 @@ header{
 }
 #minha-foto{ 
     border-radius: 50%;
-    margin:20px 0 30px 60px;
+    margin:20px 0px;
     width: 200px;
     height: 200px;
     object-fit: cover;
@@ -99,6 +99,7 @@ header{
 }
 img{
     align-self: center;
+
 }
 .sobre-mim p{
     margin: 30px;
