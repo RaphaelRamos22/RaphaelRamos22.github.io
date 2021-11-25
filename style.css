@@ -24,7 +24,7 @@ h1{
     align-self: center;
 }
 
-.cabecalho-lista{
+.cabecalho-lista ul{
     display: flex; 
 }
 .cabecalho-lista li{
